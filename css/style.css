@@ -1,0 +1,47 @@
+h1{
+    color:blue;
+    background-color:aquamarine;
+    
+}
+p{
+    color:brown;
+    background-color: aqua;
+}
+#bebasapaaja {
+    color: black;
+    background-color:antiquewhite;
+}
+.warnasatu{
+    color:chartreuse;
+    backgroun-color:magenta;
+}
+.warnadua{
+    color:rgb(0, 140, 255);
+    backgroun-color:rgb(255, 81, 0);
+}
+.warnatiga{
+    color:rgb(0, 255, 213);
+    backgroun-color:rgb(255, 0, 0);
+}
+
+
+    #kotak-satu {
+        height:100px;
+        width: 100px;
+        background-color: greenyellow;
+        margin-bottom: 10px;
+    }
+
+    #kotak-dua{
+        height: 100px;
+        width: 500px;
+        background-color: rgb(15, 209, 243);
+        margin-bottom: 10px;
+    }
+        #kotak-tiga{
+            height: 100px;
+            width: 100px;
+            background-color: darkgreen;
+            margin-bottom: 10;
+            border-radius: 50%;
+        }
